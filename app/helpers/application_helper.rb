@@ -7,4 +7,5 @@ module ApplicationHelper
     ['Water Tribes', 'water+tribes'],
   ]
   end
+  
 end
