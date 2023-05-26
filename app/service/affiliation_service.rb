@@ -1,6 +1,5 @@
 class AffiliationService
 
-  # DEFAULT_IMAGE = "app/assets/images/avatar.jpg".freeze
   def get_fire_affiliation_data
     get_url("api/v1/characters?perPage=100&affiliation=Fire+Nation")
   end
